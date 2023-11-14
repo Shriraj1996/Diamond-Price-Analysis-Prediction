@@ -11,7 +11,7 @@ It involves classical machine learning tasks tested with different models.
 # Tools Used:
 Python Programming Language
 
-Libraries : Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib, Time, Datetime
+Libraries : Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib, AutoViz
 
 IDE: Pycharm and Jupyter Notebook
 
